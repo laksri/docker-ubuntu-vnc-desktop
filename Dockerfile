@@ -1,5 +1,4 @@
-FROM ubuntu:16.04
-MAINTAINER Doro Wu <fcwu.tw@gmail.com>
+FROM eclipse/stack-base:ubuntu
 
 ENV DEBIAN_FRONTEND noninteractive
 
